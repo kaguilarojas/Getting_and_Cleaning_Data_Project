@@ -20,7 +20,8 @@ The following actions are required to generate the tidy data set with informatio
 - subject: the ID of the Test subject
 - activity: the type of activity performed when the measurement was obtained
 
-##Measurements: each colums represents value measured in the study
+##Measurements
+Each of the listed columns represents value measured in the study
 - tBodyAccMeanXtBodyAccMeanX               
 - tBodyAccMeanY
 - tBodyAccMeanZ
