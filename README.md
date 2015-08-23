@@ -15,6 +15,7 @@ This is the project submission for the Getting and Cleaning Data course. The run
 - Write reshaped data (tidy data) to the tidy_data_set.txt file
 
 Included files:
-- run_analysis.R
 - README.md
+- run_analysis.R
+- tidy_data_set.txt
 - CookBook.md
